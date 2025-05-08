@@ -5,5 +5,6 @@ steps for arpy thing:
 - [[Neighbor Advertisement (NDP)]]
 steps for router discovery:
 - [[Router Solicitation (NDP)]]
+- [[Router Advertisement (NDP)]]
 
 [[Networking]]
