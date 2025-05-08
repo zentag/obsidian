@@ -8,3 +8,5 @@ Written in 8 quartets separated by colons
 ### Shortening
 Leading zeros of each quartet can be eliminated 
 ONLY ONCE, you can replace one or more empty quartets with a double colon
+
+[[Networking]]
