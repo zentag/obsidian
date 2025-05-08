@@ -3,5 +3,5 @@
 3 ip
 4 tcp/udp
 5 
-6
-7
+6 encryption and format
+7 application 
