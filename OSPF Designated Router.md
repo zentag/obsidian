@@ -6,5 +6,5 @@ Per subnet
 
 Highest priority, then Highest loopback ip
 
-[[OSPF]]
+[[Open Shortest Path First]]
 [[Networking]]

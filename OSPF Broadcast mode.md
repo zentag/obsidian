@@ -1,3 +1,3 @@
-The [[OSPF]] mode used for [[Ethernet]] connections 
+The [[Open Shortest Path First]] mode used for [[Ethernet]] connections 
 
 [[Networking]]

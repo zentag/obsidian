@@ -9,5 +9,5 @@ Link State Update sent back
 Link State Acknowledged packet
 (Full) 
 
-[[OSPF]]
+[[Open Shortest Path First]]
 [[Networking]]

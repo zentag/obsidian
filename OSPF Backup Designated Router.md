@@ -1,3 +1,3 @@
 [[OSPF Designated Router]]
-[[OSPF]]
+[[Open Shortest Path First]]
 [[Networking]]
