@@ -1,3 +1,3 @@
-The [[OSPF]] mode used for ethernet connections 
+The [[OSPF]] mode used for [[Ethernet]] connections 
 
 [[Networking]]
