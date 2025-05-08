@@ -1,3 +1,5 @@
+Used in [[OSPF Broadcast mode]] 
+
 Selected during EXSTART of [[OSPF Neighbor Process]]
 
 Per subnet
