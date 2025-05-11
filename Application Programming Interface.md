@@ -2,4 +2,4 @@
 aliases:
   - API
 ---
-[[netw]]
+[[Networking]]
