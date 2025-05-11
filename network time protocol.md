@@ -1,4 +1,8 @@
-stratum teirs
+---
+aliases:
+  - NTP
+---
+stratum tiers
 stratum 15 max
 ntp peer
 udp 123

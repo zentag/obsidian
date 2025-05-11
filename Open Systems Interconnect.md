@@ -1,3 +1,7 @@
+---
+aliases:
+  - OSI
+---
 1 physical
 2 mac
 3 ip
