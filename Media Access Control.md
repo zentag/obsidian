@@ -1,0 +1,5 @@
+---
+aliases:
+  - MAC
+---
+Hardware addresses

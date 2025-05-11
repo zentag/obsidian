@@ -1,1 +1,5 @@
+---
+aliases:
+  - ICMP
+---
 ping

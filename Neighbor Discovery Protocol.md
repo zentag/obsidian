@@ -1,3 +1,7 @@
+---
+aliases:
+  - NDP
+---
 Used in [[IPv6]] 
 
 steps for arpy thing:

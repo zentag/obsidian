@@ -1,6 +1,6 @@
 VRRP
 
-Uses virtual [[MAC]] and [[IPv6]]
+Uses virtual [[Media Access Control]] and [[IPv6]]
 
 uses gratuitous [[Address Resolution Protocol]] reply 
 
