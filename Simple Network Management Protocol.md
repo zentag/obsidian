@@ -1,3 +1,7 @@
+---
+aliases:
+  - SNMP
+---
 udp
 
 agents listen 161
