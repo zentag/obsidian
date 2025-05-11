@@ -1,3 +1,7 @@
-Site to Site - tunnels using encryption ipsec only unicast can use gre to use broadcast 
+---
+aliases:
+  - VPN
+---
+Site to Site - tunnels using encryption ipsec only unicast can use [[Generic Routing Encapsulation|GRE]] to use broadcast 
 
-remote access - tls
+remote access - [[Transport Layer Security|TLS]]
