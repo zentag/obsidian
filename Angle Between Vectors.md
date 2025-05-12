@@ -1,1 +1,1 @@
-theta = dot product of vectors / multiplied magnitudes of [[Vector]]s
+cos theta = dot product of vectors / multiplied magnitudes of [[Vector]]s
