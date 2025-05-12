@@ -1,0 +1,1 @@
+theta = dot product of vectors / multiplied magnitudes of [[Vector]]s
