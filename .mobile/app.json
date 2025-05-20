@@ -1,0 +1,22 @@
+{
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "markdown:add-alias",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:cycle-list-checklist",
+    "editor:toggle-numbered-list",
+    "editor:insert-link",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-blockquote",
+    "editor:toggle-highlight",
+    "editor:insert-horizontal-rule"
+  ],
+  "mobilePullAction": "global-search:open",
+  "alwaysUpdateLinks": true,
+  "tabSize": 7
+}
