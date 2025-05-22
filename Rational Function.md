@@ -1,0 +1,1 @@
+two functions in fraction 
