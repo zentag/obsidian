@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc 1.2 Notes.md",
+                "file": "Domain Specific Language.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Calc 1.2 Notes"
+              "title": "Domain Specific Language"
             }
           }
         ]
@@ -175,10 +175,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5534d17996bbdb86",
+  "active": "648f64abfac72aa9",
   "lastOpenFiles": [
-    "Rational Function.md",
     "Calc 1.2 Notes.md",
+    "Domain Specific Language.md",
+    "Rational Function.md",
     "2025-05-22.md",
     "Calc 1.3 Notes.md",
     "Arc Functions.md",
@@ -203,7 +204,6 @@
     "Security.md",
     "Modulate Demodulate.md",
     "Fiber.md",
-    "Digital Subscriber Line.md",
     "Small Office ",
     "Untitled.canvas",
     "Untitled",
