@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain Specific Language.md",
+                "file": "Advancing in company.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Domain Specific Language"
+              "title": "Advancing in company"
             }
           }
         ]
@@ -175,10 +175,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "648f64abfac72aa9",
+  "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Calc 1.2 Notes.md",
+    "Social Tips.md",
+    "Advancing in company.md",
+    "Learning Tips.md",
+    "Tips.md",
     "Domain Specific Language.md",
+    "Calc 1.2 Notes.md",
     "Rational Function.md",
     "2025-05-22.md",
     "Calc 1.3 Notes.md",
@@ -199,11 +203,7 @@
     "Application Programming Interface.md",
     "2025-05-15.md",
     "2025-05-14.md",
-    "Learning Tips.md",
     "Notetaking.md",
-    "Security.md",
-    "Modulate Demodulate.md",
-    "Fiber.md",
     "Small Office ",
     "Untitled.canvas",
     "Untitled",
