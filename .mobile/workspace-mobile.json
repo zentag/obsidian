@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Second Wind.md",
+                "file": "Calculus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Second Wind"
+              "title": "Calculus"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Productivity Tips.md",
+    "Calculus.md",
     "Second Wind.md",
+    "Productivity Tips.md",
     "Memorization Tips.md",
     "Spine Leaf Design.md",
     "2025-05-23.md",
@@ -204,7 +205,6 @@
     "2025-05-17.md",
     "Effect.md",
     "Borrow Checker.md",
-    "Rust.md",
     "Small Office ",
     "Untitled.canvas",
     "Untitled",
