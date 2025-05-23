@@ -1,1 +1,5 @@
+---
+aliases:
+---
 [[Rational Function]]
+[[Calculus]]
