@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calc 1.3 Notes.md",
+                "file": "Calc 2.3 Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Calc 1.3 Notes"
+              "title": "Calc 2.3 Notes"
             }
           }
         ]
@@ -178,6 +178,7 @@
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
     "Calc 1.2 Notes.md",
+    "Calc 1.3 Notes.md",
     "Calc 2.3 Notes.md",
     "Calculus.md",
     "Second Wind.md",
@@ -193,7 +194,6 @@
     "Domain Specific Language.md",
     "Rational Function.md",
     "2025-05-22.md",
-    "Calc 1.3 Notes.md",
     "Arc Functions.md",
     "PXL_20250521_122434365.MP.jpg",
     "2025-05-21.md",
