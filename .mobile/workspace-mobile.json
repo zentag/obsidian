@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memorization Tips.md",
+                "file": "Productivity Tips.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memorization Tips"
+              "title": "Productivity Tips"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Spine Leaf Design.md",
     "Memorization Tips.md",
+    "Productivity Tips.md",
+    "Spine Leaf Design.md",
     "2025-05-23.md",
     "Calc 2.3 Notes.md",
     "PXL_20250523_013305997.jpg",
@@ -204,7 +205,6 @@
     "Borrow Checker.md",
     "Rust.md",
     "Programming Language.md",
-    "Programming.md",
     "Small Office ",
     "Untitled.canvas",
     "Untitled",
