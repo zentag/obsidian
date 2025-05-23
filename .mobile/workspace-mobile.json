@@ -11,24 +11,10 @@
             "id": "5534d17996bbdb86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Calc 2.3 Notes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Calc 2.3 Notes"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,9 +163,9 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
+    "Calc 2.3 Notes.md",
     "Calc 1.2 Notes.md",
     "Calc 1.3 Notes.md",
-    "Calc 2.3 Notes.md",
     "Calculus.md",
     "Second Wind.md",
     "Productivity Tips.md",
