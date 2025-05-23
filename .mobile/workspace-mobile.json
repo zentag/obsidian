@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Productivity Tips.md",
+                "file": "Second Wind.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Productivity Tips"
+              "title": "Second Wind"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Memorization Tips.md",
     "Productivity Tips.md",
+    "Second Wind.md",
+    "Memorization Tips.md",
     "Spine Leaf Design.md",
     "2025-05-23.md",
     "Calc 2.3 Notes.md",
@@ -204,7 +205,6 @@
     "Effect.md",
     "Borrow Checker.md",
     "Rust.md",
-    "Programming Language.md",
     "Small Office ",
     "Untitled.canvas",
     "Untitled",
