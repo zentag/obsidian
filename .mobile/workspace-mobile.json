@@ -11,24 +11,10 @@
             "id": "5534d17996bbdb86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-05-23.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-23"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,8 +163,9 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Calc 2.3 Notes.md",
+    "Memorization Tips.md",
     "2025-05-23.md",
+    "Calc 2.3 Notes.md",
     "PXL_20250523_013305997.jpg",
     "Advancing in company.md",
     "Social Tips.md",
@@ -204,7 +191,6 @@
     "Programming Language.md",
     "Programming.md",
     "Application Programming Interface.md",
-    "2025-05-15.md",
     "Small Office ",
     "Untitled.canvas",
     "Untitled",
