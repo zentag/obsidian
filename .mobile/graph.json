@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "file:tip",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -11,12 +11,12 @@
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 4.0268691588785,
+  "lineSizeMultiplier": 1,
   "collapse-forces": true,
-  "centerStrength": 0.549065420560748,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0892771881324066,
+  "scale": 0.35919606094789236,
   "close": true
 }
