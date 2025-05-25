@@ -11,10 +11,24 @@
             "id": "5534d17996bbdb86",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2025-05-25.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-25"
             }
           }
         ]
@@ -163,6 +177,7 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
+    "2025-05-25.md",
     "Networking.md",
     "Controller Area Network.md",
     "Car Electronics.md",
@@ -190,7 +205,6 @@
     "2025-05-22.md",
     "Arc Functions.md",
     "PXL_20250521_122434365.MP.jpg",
-    "2025-05-21.md",
     "Small Office ",
     "Untitled.canvas",
     "Untitled",
