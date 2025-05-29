@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-05-29.md",
+                "file": "Limits.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-29"
+              "title": "Limits"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Calculus.md",
     "2025-05-29.md",
+    "Limits.md",
+    "Calculus.md",
     "Daily Notes.md",
     "2025-05-25.md",
     "Networking.md",
@@ -203,7 +204,6 @@
     "Learning Tips.md",
     "Tips.md",
     "Domain Specific Language.md",
-    "Rational Function.md",
     "PXL_20250521_122434365.MP.jpg",
     "Small Office ",
     "Untitled.canvas",
