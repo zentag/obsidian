@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workout routine.md",
+                "file": "2025-06-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "workout routine"
+              "title": "2025-06-05"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "2025-06-04.md",
     "workout routine.md",
+    "2025-06-04.md",
     "Dynamic Host Configuration Protocol.md",
     "2025-05-29.md",
     "2025-05-12.md",
