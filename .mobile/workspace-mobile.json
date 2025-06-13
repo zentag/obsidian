@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-13.md",
+                "file": "Computer Startup Timeline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-13"
+              "title": "Computer Startup Timeline"
             }
           }
         ]
@@ -177,8 +177,10 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "GitHub.md",
+    "Kernel.md",
+    "Computer Startup Timeline.md",
     "2025-06-13.md",
+    "GitHub.md",
     "Git.md",
     "2025-06-09.md",
     "2025-06-07.md",
@@ -201,8 +203,6 @@
     "2025-05-24.md",
     "Productivity Tips.md",
     "2025-05-17 Effect lecture.md",
-    "Effect.md",
-    "Calc 2.3 Notes.md",
     "PXL_20250523_013305997.jpg",
     "PXL_20250521_122434365.MP.jpg",
     "Small Office ",
