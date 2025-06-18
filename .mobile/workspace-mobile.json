@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flakes.md",
-                "mode": "preview",
+                "file": "Nix Customization.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Flakes"
+              "title": "Nix Customization"
             }
           }
         ]
@@ -177,10 +177,11 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
+    "Flakes.md",
+    "Nix Customization.md",
     "Screenshot_20250617-232259.png",
     "PXL_20250606_013540091.jpg",
     "NixOS configuration.md",
-    "Flakes.md",
     "Nixos.md",
     "Nix.md",
     "2025-06-17.md",
