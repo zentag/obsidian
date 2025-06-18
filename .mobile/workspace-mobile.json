@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-17.md",
+                "file": "NixOS configuration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-17"
+              "title": "NixOS configuration"
             }
           }
         ]
@@ -177,8 +177,11 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Systemd.md",
+    "Nixos.md",
+    "NixOS configuration.md",
+    "Nix.md",
     "2025-06-17.md",
+    "Systemd.md",
     "2025-06-15.md",
     "Computer Startup Timeline.md",
     "Read Only Memory.md",
@@ -200,9 +203,6 @@
     "Daily Notes.md",
     "2025-05-25.md",
     "Networking.md",
-    "Controller Area Network.md",
-    "Car Electronics.md",
-    "Car.md",
     "PXL_20250523_013305997.jpg",
     "PXL_20250521_122434365.MP.jpg",
     "Small Office ",
