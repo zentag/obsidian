@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-06-15.md",
+                "file": "2025-06-17.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-15"
+              "title": "2025-06-17"
             }
           }
         ]
@@ -177,8 +177,10 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Computer Startup Timeline.md",
+    "Systemd.md",
+    "2025-06-17.md",
     "2025-06-15.md",
+    "Computer Startup Timeline.md",
     "Read Only Memory.md",
     "Kernel.md",
     "2025-06-13.md",
@@ -201,8 +203,6 @@
     "Controller Area Network.md",
     "Car Electronics.md",
     "Car.md",
-    "Dynamic ARP Inspection.md",
-    "2025-05-24.md",
     "PXL_20250523_013305997.jpg",
     "PXL_20250521_122434365.MP.jpg",
     "Small Office ",
