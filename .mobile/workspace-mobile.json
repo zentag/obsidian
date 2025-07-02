@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nix Customization.md",
+                "file": "2025-07-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nix Customization"
+              "title": "2025-07-01"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Flakes.md",
     "Nix Customization.md",
+    "2025-07-01.md",
+    "Flakes.md",
     "Screenshot_20250617-232259.png",
     "PXL_20250606_013540091.jpg",
     "NixOS configuration.md",
@@ -204,7 +205,6 @@
     "2025-06-02.md",
     "Limits.md",
     "Calculus.md",
-    "Daily Notes.md",
     "PXL_20250523_013305997.jpg",
     "PXL_20250521_122434365.MP.jpg",
     "Small Office ",
