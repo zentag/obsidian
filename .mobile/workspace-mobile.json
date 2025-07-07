@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wicking Tips.md",
+                "file": "2025-07-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wicking Tips"
+              "title": "2025-07-06"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Soldering.md",
     "Wicking Tips.md",
+    "2025-07-06.md",
+    "Soldering.md",
     "2025-07-01.md",
     "Nix Customization.md",
     "Flakes.md",
@@ -204,7 +205,6 @@
     "Dynamic Host Configuration Protocol.md",
     "2025-05-29.md",
     "2025-05-12.md",
-    "2025-06-02.md",
     "PXL_20250523_013305997.jpg",
     "PXL_20250521_122434365.MP.jpg",
     "Small Office ",
