@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Natural Log.md",
+                "file": "2025-07-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Natural Log"
+              "title": "2025-07-19"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "5534d17996bbdb86",
   "lastOpenFiles": [
-    "Logarithms.md",
     "Natural Log.md",
+    "2025-07-19.md",
+    "Logarithms.md",
     "2025-07-06.md",
     "Wicking Tips.md",
     "Soldering.md",
@@ -204,7 +205,6 @@
     "2025-06-05.md",
     "workout routine.md",
     "2025-06-04.md",
-    "Dynamic Host Configuration Protocol.md",
     "PXL_20250523_013305997.jpg",
     "PXL_20250521_122434365.MP.jpg",
     "Small Office ",
